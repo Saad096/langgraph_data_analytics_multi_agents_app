@@ -69,7 +69,6 @@ python demo_chat.py
 ```
 
 ## App
-https://langgraphdataanalyticsagents.streamlit.app/
 ![](https://github.com/abh2050/langgraph_data_analytics_agents/blob/main/assets/1.png)
 ![](https://github.com/abh2050/langgraph_data_analytics_agents/blob/main/assets/2.png)
 
